@@ -50,6 +50,8 @@ All employee data used in this project is **entirely fictional** and was manuall
 
 No real employee, company, or personal information is included in this dataset.
 
+---
+
 ## 🔜 Future Improvements
 
 - Add conditional formatting (e.g. KPI highlights)
