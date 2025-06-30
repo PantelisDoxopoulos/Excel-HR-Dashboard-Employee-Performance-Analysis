@@ -22,15 +22,9 @@ Built in a single day as a practice project to demonstrate proficiency with Exce
 |------|-------------|
 | `HR_Dashboard.xlsx` | The full working dashboard in Excel |
 | `dashboard-preview.png` | Clean screenshot of the final dashboard |
-| `Data` sheet | Source dataset used for Pivot Table analysis |
 
 ---
 
-## 🖼️ Preview
-
-![Dashboard Screenshot](dashboard-preview.png)
-
----
 
 ## 🛠️ Tools Used
 
@@ -49,6 +43,12 @@ This dashboard was created in a single day as a quick personal exercise to:
 - Present interactive visual insights from raw employee data
 
 ---
+
+## 🔐 Data Privacy Notice
+
+All employee data used in this project is **entirely fictional** and was manually created or randomly generated for demonstration purposes only.
+
+No real employee, company, or personal information is included in this dataset.
 
 ## 🔜 Future Improvements
 
