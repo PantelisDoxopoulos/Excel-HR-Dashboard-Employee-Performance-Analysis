@@ -20,8 +20,8 @@ Built in a single day as a practice project to demonstrate proficiency with Exce
 
 | File | Description |
 |------|-------------|
-| `HR_Dashboard.xlsx` | The full working dashboard in Excel |
-| `dashboard-preview.png` | Clean screenshot of the final dashboard |
+| `HR.xlsx` | The full working dashboard in Excel |
+| `Final_Report.png` | Clean screenshot of the final dashboard |
 
 ---
 
